@@ -7,5 +7,6 @@ i don't like 🍰
 
 Mi ultima linea en mi repositorio
 
-Primer cambio (Git Pull)
+Primer cambio
+segundo cambio, el anterior lo hice mal 
 
